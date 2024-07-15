@@ -1,5 +1,4 @@
 ---
-aliases: 
 tags:
   - AI
   - wechat
