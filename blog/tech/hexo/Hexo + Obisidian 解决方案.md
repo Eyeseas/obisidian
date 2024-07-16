@@ -9,11 +9,12 @@ tags:
   - Hexo
   - Obisidian
 ---
-核心前提: 
-1. icloud同步
-2. 文档脱离hexo仓库，以子模块引入
-3. 图床外链, 因为无法找到合适hexo的图片路径方案
-4. 子模块更新自动化推送到hexo仓库
-5. github action 同步submodule与hexo仓库
-6. cloudflare pages自动部署
-7. 绑定自定义域名
+解决方案
+1. obisidian文档 icloud同步
+2. obisidian publisher推送文档仓库
+3. 文档脱离hexo仓库，以子模块引入
+4. 图床外链, 因为无法找到合适hexo的图片路径方案
+5. 子模块更新自动化推送到hexo仓库
+6. github action 同步submodule与hexo仓库
+7. cloudflare pages自动部署
+8. 绑定自定义域名
