@@ -10,4 +10,5 @@ tags:
   - Alist
   - 图床
 ---
+
 > 私有化部署Alist图床, 使用PicList-core + Picgo-plugin-alist插件
