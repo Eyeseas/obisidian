@@ -16,3 +16,4 @@ tags:
 4. 子模块更新自动化推送到hexo仓库
 5. github action 同步submodule与hexo仓库
 6. cloudflare pages自动部署
+7. 绑定自定义域名
