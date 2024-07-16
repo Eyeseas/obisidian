@@ -5,6 +5,9 @@ categories:
   - hexo
 title: Hexo+Obisidian解决方案
 date: 2024-07-16
+tags:
+  - Hexo
+  - Obisidian
 ---
 核心前提: 
 1. icloud同步
