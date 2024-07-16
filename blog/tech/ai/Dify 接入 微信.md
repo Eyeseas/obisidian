@@ -14,10 +14,10 @@ date: 2024-07-16
 
 ###  需求前瞻
 
-1. [[#Dify接入 | Dify如何把普通聊天机器人接入微信]]
-2. [[#自定义Dify工具 Serper API|自定义编排工作流机器人如何联网搜索]]
-3. [[#搜索结果数据处理|搜索获取的数据如何展示]]
-###  Dify接入
+1. Dify如何把普通聊天机器人接入微信
+2. 自定义编排工作流机器人如何联网搜索
+3. 搜索获取的数据如何展示
+### Dify接入
 
 github项目地址 [dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat)
 ### 自定义Dify工具: Serper API
