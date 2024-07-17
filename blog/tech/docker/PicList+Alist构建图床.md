@@ -16,7 +16,10 @@ tags:
 ## 前期准备
 
 - Alist
-- PicList-core
+- PicGo / PicList (有图形化界面)
+- PicGo-Core / PicList-Core(无图形化界面)
 
-![image.png](https://alist.kong.vision/d/r2/_imageStore/image.png)
-  
+
+## 需要的问题
+
+1. 在使用PicList-Core过程中，通过[obisidian-image-auto-upload-image](https://github.com/renmu123/obsidian-image-auto-upload-plugin)自动上传剪贴板图片，图片名不会触发renameFn，导致一直传的都是同一个文件名 `image.png`，一直在覆盖相同的图片
