@@ -9,4 +9,4 @@ categories:
 tags:
   - Obisidian
 ---
-Obisidian模板配置，并移除Enveloppe同步到github
+> Obisidian模板配置，并移除Enveloppe同步到github

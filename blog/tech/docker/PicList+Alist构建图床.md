@@ -13,13 +13,50 @@ tags:
 > 私有化部署Alist图床, 使用PicList-core + Picgo-plugin-alist插件
 
 
-## 前期准备
+## 前期准备工具
 
 - Alist
-- PicGo / PicList (有图形化界面)
-- PicGo-Core / PicList-Core(无图形化界面)
+- 以下选一个你会用的
+	- PicGo / PicList (有图形化界面, `PicGo` 需要手动安装 [picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist))
+	- PicGo-Core / PicList-Core(无图形化界面 )
 
 
-## 需要的问题
+## Alist 准备
 
-1. 在使用PicList-Core过程中，通过[obisidian-image-auto-upload-image](https://github.com/renmu123/obsidian-image-auto-upload-plugin)自动上传剪贴板图片，图片名不会触发renameFn，导致一直传的都是同一个文件名 `image.png`，一直在覆盖相同的图片
+### 1. 关闭签名
+
+![image.png](https://alist.kong.vision/d/r2/_imageStore/2024/07/1720240717232721.png)
+
+
+### 2. 获取令牌
+
+> picgo-plugin-alist 也可以直接填入用户名密码
+
+![image.png](https://alist.kong.vision/d/r2/_imageStore/2024/07/1720240717232750.png)
+
+
+## PicGo / PicList
+
+> 图形化界面可以直接在应用里面配置, core版本自行对照文档编辑config.json, 配置的字段基本都一样
+
+```json
+{
+	"url": "https://xxxx.xxx.xxx",
+	"token": "alistxxxxxxxxxxxxxxc",
+	"username": "",
+	"password": "",
+	"uploadPath": "/r2/_imageStore",
+	"webPath": "",
+	"customUrl": ""
+}
+```
+
+
+
+
+
+
+
+
+
+
