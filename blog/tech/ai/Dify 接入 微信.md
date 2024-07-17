@@ -74,7 +74,6 @@ Dify没有直接提供SerperAPI的工具, 于是对着给的例子写了个勉�
 
 ### 搜索结果数据处理
 
-![Dify 数据处理](https://alist.kong.vision/d/r2/_imageStore/iShot_2024-07-16_23.07.03.png)
 
 ```python
 import json
@@ -92,3 +91,8 @@ def main(arg1: str) -> dict:
             "result": []
         }
 ```
+
+### 全局流程图
+
+![image.png](https://alist.kong.vision/d/r2/_imageStore/2024/07/17/20240717233532.png)
+
