@@ -15,6 +15,8 @@ tags:
 - [x] hexo图片路径解决不了，像图床方案妥协
 - [ ] 跨平台同步ios/android/windows
 
+<!-- more -->
+
 ## 解决方案
 
 1. obisidian文档 icloud同步
