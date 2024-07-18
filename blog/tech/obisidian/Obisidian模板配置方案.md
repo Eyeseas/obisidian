@@ -7,5 +7,8 @@ categories:
   - obisidian
 tags:
   - Obisidian
+description: Obisidian模板配置，Enveloppe 屏蔽指定目录到github
 ---
-> Obisidian模板配置，Enveloppe 屏蔽指定目录到github
+
+
+obisidian
