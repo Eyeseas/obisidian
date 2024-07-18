@@ -18,6 +18,10 @@ updated: 2024-07-17T17:41:00
 1. Dify如何把普通聊天机器人接入微信
 2. 自定义编排工作流机器人如何联网搜索
 3. 搜索获取的数据如何展示
+
+
+<!-- more -->
+
 ### Dify接入
 
 github项目地址 [dify-on-wechat](https://github.com/hanfangyuan4396/dify-on-wechat)
