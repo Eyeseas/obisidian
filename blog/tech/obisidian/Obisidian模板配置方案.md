@@ -8,7 +8,4 @@ categories:
 tags:
   - Obisidian
 ---
-> Obisidian模板配置，并移除Enveloppe同步到github
-
-
-test1111
+> Obisidian模板配置，Enveloppe 屏蔽指定目录到github
