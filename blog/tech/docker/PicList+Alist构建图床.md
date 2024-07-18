@@ -20,6 +20,7 @@ tags:
 	- PicGo / PicList (有图形化界面, `PicGo` 需要手动安装 [picgo-plugin-alist](https://github.com/jinzhi0123/picgo-plugin-alist))
 	- PicGo-Core / PicList-Core(无图形化界面 )
 
+<!-- more -->
 
 ## Alist 准备
 
