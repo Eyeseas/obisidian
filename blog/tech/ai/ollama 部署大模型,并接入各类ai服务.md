@@ -7,6 +7,7 @@ tags:
 categories:
   - tech
   - ai
+description: ollama一键安装及调用openai compatible接口用于各类服务
 ---
 ## ollama 安装
 
