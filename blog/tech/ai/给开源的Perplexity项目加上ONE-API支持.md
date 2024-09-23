@@ -24,7 +24,7 @@ categories:
 
 ## 修改后实现效果
 
-在原有代码上新增了`ONE-API`的Provider, 支持直接从`ONE-API`接口获取所有模型, 以及自动过滤出`Embedding`相关的模型
+在原有代码上新增了`ONE-API`的Provider, 支持直接从`ONE-API`接口获取所有模型, 以及自动过滤出`Embedding`相关的模型
 
 ![取出one-api的所有模型](https://alist.kong.vision/d/r2/_imageStore/2024/09/21/20240921120130.png)
 
