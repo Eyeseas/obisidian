@@ -6,6 +6,8 @@ updated: 2024-10-07 22:58
 tags:
   - anki
   - AI
+  - pupeteer
+  - nodejs
 categories:
   - tech
   - ai
