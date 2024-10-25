@@ -40,8 +40,8 @@ FROM diygod/rsshub:chromium-bundled
 
 ```yaml
 build:
-	docker:
-		web: Dockerfile
+  docker:
+    web: Dockerfile
 
 # 下面还应该指定web相关的启动指令,但是不指定好像也可以, 会默认使用原镜像的启动指令
 ```
