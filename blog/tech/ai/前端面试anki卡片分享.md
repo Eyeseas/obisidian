@@ -15,6 +15,8 @@ categories:
 > 卡片数据来源 [前端面试指南-基础篇](https://interview.poetries.top/docs/base.html)
 
 
+<!-- more -->
+
 ## 资源地址
 
 目前是有365张卡片,直链导入
