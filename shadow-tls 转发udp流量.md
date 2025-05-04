@@ -22,6 +22,17 @@ nft add rule inet my_nat_table prerouting iifname "eth0" udp dport xxxxx(替换�
 nft add rule inet my_nat_table postrouting oifname "eth0" udp dport xxxxxx(替换成 $$-rust的端口) masquerade
 ```
 
+### nftables 部分指令
+
+1. 输出到文件持久化
+```shell
+nft list ruleset > /etc/nftables.conf
+```
+
+2. 加载规则
+```shell
+nft -f /etc/nftables.conf
+```
 
 ## ss-rust 解决方案
 
